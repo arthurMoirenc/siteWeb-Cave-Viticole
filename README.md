@@ -65,5 +65,4 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ---
 
-## [Voir en ligne](## [Voir en ligne](https://www.poledancemarseille.com/)
-
+## [Voir en ligne](https://www.cave-bonnieux.com/boutique/index.php/fr/catalogue/liste/)
