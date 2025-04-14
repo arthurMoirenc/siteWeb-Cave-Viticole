@@ -30,7 +30,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ## 📃 Page Liste
 
-![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-%233E4C59?style=for-the-badge)
 
 ![pageListe1](./pageListe1.png)
 ![pageListe2](./pageListe2.png)
