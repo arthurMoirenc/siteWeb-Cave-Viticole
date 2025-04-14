@@ -14,13 +14,13 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ---
 
-## 🗃️ Les tables
+# 🗃️ Les tables
 
 ![Tables BDD](./bddGithub.png)
 
 ---
 
-## ⚙️ Dynamisation des pages
+# ⚙️ Dynamisation des pages
 
 1. Connexion à la **base de données**  
 2. Requête pour **récupérer les informations nécessaires** (liste des vins)  
@@ -28,7 +28,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ---
 
-## 📃 Page Liste
+# 📃 Page Liste
 
 ![Code](https://img.shields.io/badge/Code-%2341A7F6?style=for-the-badge)
 
@@ -41,7 +41,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ---
 
-## 📄 Page Fiche
+# 📄 Page Fiche
 
 ![Code](https://img.shields.io/badge/Code-%2341A7F6?style=for-the-badge)
 
@@ -55,7 +55,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ---
 ---
 
-## 🧩 Technologies utilisées
+# 🧩 Technologies utilisées
 
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
