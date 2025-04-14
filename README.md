@@ -35,7 +35,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ![pageListe1](./pageListe1.png)
 ![pageListe2](./pageListe2.png)
 
-![Résultat](https://img.shields.io/badge/Résultat-%239B59B6?style=for-the-badge)
+![Résultat](https://img.shields.io/badge/Résultat-%233E4A89?style=for-the-badge)
 
 ![resultatListe](./resultatListe.png)
 
@@ -50,7 +50,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ![pageFiche1](./pageFiche1.png)
 ![pageFiche2](./pageFiche2.png)
 
-![Résultat](https://img.shields.io/badge/Résultat-%239B59B6?style=for-the-badge)
+![Résultat](https://img.shields.io/badge/Résultat-%233E4A89?style=for-the-badge)
 
 ![resultatFiche](./resultatFiche.png)
 
