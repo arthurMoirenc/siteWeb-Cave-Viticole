@@ -1,7 +1,7 @@
 # 🍷 Cave Viticole
 
 ## 📝 Présentation du projet  
-Le client possède déjà un site internet vitrine et souhaite une **nouvelle section** pour présenter ses vins.
+Le client possède déjà un site vitrine et souhaite une **nouvelle section** pour présenter ses vins.
 
 ---
 
