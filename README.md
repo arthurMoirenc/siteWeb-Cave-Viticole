@@ -29,7 +29,6 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ---
 
 ## 📃 Page Liste
-
 > 📸 *[Screens du code et du résultat]*
 
 ---
@@ -48,28 +47,3 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-## 💻 Code du projet
-
-```bash
-/cave-viticole
-│
-├── /images
-│   └── (Screenshots des pages)
-│
-├── /php
-│   ├── liste_vins.php
-│   └── fiche_vin.php
-│
-├── /sql
-│   └── creation_tables.sql
-│
-├── index.html
-└── README.md
-aaaqsd
-a
-qsd
-
-w<w
-
-w
