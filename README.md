@@ -17,7 +17,6 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ## 🗃️ Les tables
 
 ![Tables BDD](./bddGit.png)
-> 📸 *[Screens des tables de la BDD ici]*
 
 ---
 
