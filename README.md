@@ -26,7 +26,7 @@
 <div style="background-color:#f0f4ff; border-left: 6px solid #4169E1; padding: 1em; margin-bottom: 1em;">
 
 <h2>🗃️ Les tables</h2>
-![tables BDD](./bddGit.png)
+![tables BDD](bddGit.png)
 
 </div>
 
