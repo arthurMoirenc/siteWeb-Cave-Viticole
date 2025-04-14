@@ -39,8 +39,6 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ![resultatListe](./resultatListe.png)
 
-> 📸 *[Screens du code et du résultat]*
-
 ---
 
 ## 📄 Page Fiche
@@ -54,6 +52,7 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ![resultatFiche](./resultatFiche.png)
 
+---
 ---
 
 ## 🧩 Technologies utilisées
