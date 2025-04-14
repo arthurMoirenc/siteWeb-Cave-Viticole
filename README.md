@@ -1,4 +1,4 @@
-# 🍷 Cave Viticole
+<h1 align="center">🍷 Cave Viticole</h1>
 
 ## 📝 Présentation du projet  
 Le client possède déjà un site vitrine et souhaite une **nouvelle section** pour présenter ses vins.
