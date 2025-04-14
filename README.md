@@ -49,13 +49,5 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ---
 
-## 📌 À venir
-
-- ✅ Ajout d’un système de filtres ou de recherche
-- ✅ Amélioration du design des pages
-- ✅ Intégration possible à un CMS existant
-
----
-
 ## 📂 Organisation du projet
 
