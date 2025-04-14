@@ -65,4 +65,6 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ---
 
-## [Voir en ligne](https://www.cave-bonnieux.com/boutique/index.php/fr/catalogue/liste/)
+## [![Voir en ligne](https://img.shields.io/badge/Consulter%20le%20site%20-%20Cave%20Bonnieux-003366?style=for-the-badge&logo=internet-explorer&logoColor=white&color=003366)](https://www.cave-bonnieux.com/boutique/index.php/fr/catalogue/liste/)
+
+---
