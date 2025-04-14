@@ -30,12 +30,12 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 
 ## 📃 Page Liste
 
-Code : 
+![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)
 
 ![pageListe1](./pageListe1.png)
 ![pageListe2](./pageListe2.png)
 
-Résultat : 
+![Résultat](https://img.shields.io/badge/Résultat-%23FF0000?style=for-the-badge&logo=github&logoColor=white)
 
 ![resultatListe](./resultatListe.png)
 
@@ -45,16 +45,14 @@ Résultat :
 
 ## 📄 Page Fiche
 
-Code : 
+![Code](https://img.shields.io/badge/Code-%234CAF50?style=for-the-badge&logo=github&logoColor=white)
 
 ![pageFiche1](./pageFiche1.png)
 ![pageFiche2](./pageFiche2.png)
 
-Résultat : 
+![Résultat](https://img.shields.io/badge/Résultat-%23FF0000?style=for-the-badge&logo=github&logoColor=white)
 
 ![resultatFiche](./resultatFiche.png)
-
-> 📸 *[Screens du code et du résultat]*
 
 ---
 
