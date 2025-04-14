@@ -29,11 +29,29 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ---
 
 ## 📃 Page Liste
+
+Code : 
+
+![pageListe1](./pageListe1.png)
+![pageListe2](./pageListe2.png)
+
+Résultat : 
+![resultatListe](./resultatListe.png)
+
 > 📸 *[Screens du code et du résultat]*
 
 ---
 
 ## 📄 Page Fiche
+
+Code : 
+
+![pageFiche1](./pageFiche1.png)
+![pageFiche2](./pageFiche2.png)
+
+Résultat : 
+
+![resultatFiche](./resultatFiche.png)
 
 > 📸 *[Screens du code et du résultat]*
 
