@@ -64,3 +64,6 @@ Le client possède déjà un site vitrine et souhaite une **nouvelle section** p
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
+## [Voir en ligne](## [Voir en ligne](https://www.poledancemarseille.com/)
+
